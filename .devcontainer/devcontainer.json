@@ -1,0 +1,7 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+
+    "waitFor": "onCreateCommand",
+    "updateContentCommand": "pip install -r requirements.txt; python -m build; python -m pip install --force-reinstall dist/rose-*.whl",
+    "postCreateCommand": ""
+  }
