@@ -1,5 +1,7 @@
 # ROSE
 
+[![Start Developing in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=develop&repo=623062915)
+
 **R**educed-**O**rder **S**cattering **E**mulator
 
 ROSE makes it easy to build and train a scattering emulator.
